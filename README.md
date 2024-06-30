@@ -1,4 +1,5 @@
 #Intelligent Data Collection for Case Resolution
+
 This Project 4 directories:
 
 1. Dataset: Contains Text Documentation of 7 Indian Government Acts.
